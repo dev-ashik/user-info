@@ -1,0 +1,37 @@
+.profile {
+    display: flex;
+    border: 3px solid lightsalmon;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 5px;
+    width: 45%;
+}
+
+.leftSide {
+    /* height: 150px;
+    width: 150px; */
+    padding-right: 20px;
+
+}
+
+.leftSide img {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    padding: 7px;
+    /* padding-right: 20px; */
+    border: 5px solid rgb(173, 182, 230);
+}
+
+.imageBorder {
+    
+}
+
+.rightSide {
+    border-left: 3px solid lightsalmon;
+    padding-left: 20px;
+}
+
+.rightSide button {
+    /* line-height: bottom; */
+}
